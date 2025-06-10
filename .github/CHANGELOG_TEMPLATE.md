@@ -32,7 +32,6 @@ COMPATIBILITY:
 - Gateway API version: ``
 - NGINX version: ``
 - NGINX Plus version: ``
-- NGINX Agent version: ``
 - Kubernetes version: ``
 
 CONTAINER IMAGES:
